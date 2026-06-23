@@ -12,3 +12,5 @@ Mais do que um repositório de anotações, este projeto funciona como uma docum
 
 
 <img width="910" height="1064" alt="image" src="https://github.com/user-attachments/assets/5f9d565f-9fa8-4e8c-a582-2528503566a9" />
+<img width="1863" height="1145" alt="image" src="https://github.com/user-attachments/assets/80b0d6c9-0a3a-4859-8f64-522294578366" />
+
