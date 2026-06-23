@@ -1,8 +1,3 @@
----
-tags:
-  - home
-  - index
----
 
 # 🏠 Base de Conhecimento — Danilo César
 
@@ -12,23 +7,23 @@ tags:
 
 ## 🗺️ Estrutura do Vault
 
-| Aba                        | Descrição                                      |
-| -------------------------- | ---------------------------------------------- |
-| [[Fundamentos]]            | Scratch, No-Code, conteúdos introdutórios      |
-| [[Web]]                    | HTML, CSS, Bootstrap, Internet                 |
-| [[JavaScript]]             | Linguagem, estruturas, POO, async              |
-| [[UI-UX]]                  | Design, pesquisa, prototipagem, métricas       |
-| [[Engenharia de Software]] | Metodologias, arquitetura, boas práticas       |
-| [[Banco de Dados]]         | SQL, modelagem, ORMs                           |
-| [[Ferramentas]]            | Git, GitHub, VS Code, terminal                 |
-| [[Projetos]]               | Registro ativo dos projetos em desenvolvimento |
-|                            |                                                |
+| Aba                        | Descrição                                 |
+| -------------------------- | ----------------------------------------- |
+| [[Logica de programação]]  | Scratch, No-Code, conteúdos introdutórios |
+| [[Web]]                    | HTML, CSS, Bootstrap, Internet            |
+| [[Ferramentas]]            | Git, GitHub, VS Code, terminal            |
+| [[UI-UX]]                  | Design, pesquisa, prototipagem, métricas  |
+| [[JavaScript]]             | Linguagem, estruturas, POO, async         |
+| [[Python]]                 | Linguagem, Escopo, POO, Dados, API's      |
+| [[Banco de Dados]]         | SQL, modelagem, ORMs                      |
+| [[React]]                  | React Native, React JS                    |
+| [[Java]]                   | JDK, Strings, Operadores, Collections     |
 
 ---
 
 ## 📖 Matérias
 
-### 🟢 [[Fundamentos]]
+### 🟢 [[Logica de programação]]
 
 > Conteúdos introdutórios — lógica, ferramentas visuais, paradigmas iniciais.
 
@@ -60,9 +55,9 @@ tags:
 
 ---
 
-### 🔧 [[Engenharia de Software]]
+### ☕ [[Java]]
 
-> Em construção.
+> Arquivo de navegação central para todos os tópicos de Java do vault.
 
 ---
 
@@ -80,20 +75,13 @@ tags:
 
 ---
 
-### 🚀 [[Projetos]]
-
-> Registro ativo dos projetos em desenvolvimento.
-
-
----
-
 ## 🎯 Progresso Atual
 
 ### Matérias em andamento
 
 - [x] Web — HTML/CSS/Bootstrap
-- [ ] UI/UX
-- [x] Java Script
+- [x] UI/UX
+- [ ] Java Script
 - [ ] Python
 - [ ] React / React Native
 - [ ] Java
